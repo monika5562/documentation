@@ -1,0 +1,7 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}Sequence Variant Analysis (SVA) part I: Byonic\IeC {\texttrademark } Searches}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Benefits summary}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Method}{1}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Discussion regarding the use of isotopically labeled iodoacetic acid or iodoacetimide as alkylating agents.}{2}{subsection.1.2.1}
+\contentsline {section}{\numberline {1.3}Different Types of Audit Logs}{5}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Audit Logs for Fabric Server}{5}{subsection.1.3.1}
