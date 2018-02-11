@@ -8,5 +8,5 @@ Welcome to Protein Metrics's documentation
 
 .. toctree::
    :maxdepth: 5
-   
+         
    applicationnote.rst
